@@ -5,7 +5,7 @@ Ext.application(
             Ext.create('Ext.container.Viewport', //контейнер кот помся внутрь бади и заполн все прострво
             {
                 layout: 'fit',
-                items: [{title: 'Hello', html:'Hello, html'}]
+                items: [{title: 'HelloTitleExtJs', html:'Hello everybody'}]
             })
         }
     }
